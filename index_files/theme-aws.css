@@ -283,4 +283,29 @@ div.notices.info p {
     max-width: 100%;
     height: auto;
   }
-  
+
+    .cognito-button {
+        background-color: #FF9900;
+        border: none;
+        color: white;
+        padding: 6px 18px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+    }
+
+    input[type=button], input[type=submit], input[type=reset] {
+        background-color: #FF9900;
+        border: none;
+        color: white;
+        padding: 6px 18px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+    }
